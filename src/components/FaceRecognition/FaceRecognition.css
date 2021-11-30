@@ -1,0 +1,12 @@
+.bounding_box{
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+    border: 3px solid dodgerblue;
+}
+.mainBox{
+    display: flex;
+    justify-content: center;
+}
